@@ -24,45 +24,45 @@ export default function SideBar() {
 					</ul>
 			  </div>
 			  <div className="sideBarMenu">
-				  <h3 className="sideBarTitle">Dashboard</h3>
+				  <h3 className="sideBarTitle">Quick Menu</h3>
 				  <ul className='sideBarList'>
-					  <li className="sideBarListItem active">
+					  <li className="sideBarListItem">
 						  <LineStyle className='sideBarIcon'/>
-						  Home
+						  Users
 					  </li>
 					  <li className="sideBarListItem">
 						  <Timeline className='sideBarIcon'/>
-						  Analytics
+						  Products
 					  </li>
 					  <li className="sideBarListItem">
 						  <TrendingUp className='sideBarIcon'/>
-						  Sales
+						  Reports
 					  </li>
 					</ul>
 			  </div>
 			  <div className="sideBarMenu">
-				  <h3 className="sideBarTitle">Dashboard</h3>
+				  <h3 className="sideBarTitle">Notifications</h3>
 				  <ul className='sideBarList'>
-					  <li className="sideBarListItem active">
+					  <li className="sideBarListItem">
 						  <LineStyle className='sideBarIcon'/>
-						  Home
+						  Mail
 					  </li>
 					  <li className="sideBarListItem">
 						  <Timeline className='sideBarIcon'/>
-						  Analytics
+						  Feedback
 					  </li>
 					  <li className="sideBarListItem">
 						  <TrendingUp className='sideBarIcon'/>
-						  Sales
+						  Messages
 					  </li>
 					</ul>
 			  </div>
 			  <div className="sideBarMenu">
-				  <h3 className="sideBarTitle">Dashboard</h3>
+				  <h3 className="sideBarTitle">Staff</h3>
 				  <ul className='sideBarList'>
-					  <li className="sideBarListItem active">
+					  <li className="sideBarListItem">
 						  <LineStyle className='sideBarIcon'/>
-						  Home
+						  Manage
 					  </li>
 					  <li className="sideBarListItem">
 						  <Timeline className='sideBarIcon'/>
@@ -70,7 +70,7 @@ export default function SideBar() {
 					  </li>
 					  <li className="sideBarListItem">
 						  <TrendingUp className='sideBarIcon'/>
-						  Sales
+						  Reports
 					  </li>
 					</ul>
 			  </div>
