@@ -44,3 +44,18 @@ export const userData = [
     'Active User': 1000,
   },
 ];
+
+export const userRows = [
+	{ id: 1, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 2, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 3, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 4, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 5, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+	{ id: 6, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 7, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 8, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 9, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 10, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 11, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+  { id: 12, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
+];
