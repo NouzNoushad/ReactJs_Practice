@@ -59,3 +59,33 @@ export const userRows = [
   { id: 11, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
   { id: 12, username: 'John Snow', email: 'Jon@gmail.com', status: "active", transactions: "$120.00" },
 ];
+
+export const productsRows = [
+	{ id: 1, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 2, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 3, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 4, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 5, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+	{ id: 6, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 7, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 8, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 9, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 10, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 11, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+  { id: 12, product: 'Apple', stock: 123, status: "active", price: "$120.00" },
+];
+
+export const productData = [
+  {
+    name: 'Jan',
+    'Sales': 4000,
+	},
+	{
+    name: 'Feb',
+    'Sales': 2000,
+  },
+  {
+    name: 'Mar',
+    'Sales': 3000,
+	},
+];

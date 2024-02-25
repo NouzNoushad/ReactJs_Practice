@@ -10,10 +10,12 @@ export default function SideBar() {
 			  <div className="sideBarMenu">
 				  <h3 className="sideBarTitle">Dashboard</h3>
 				  <ul className='sideBarList'>
-					  <li className="sideBarListItem active">
-						  <LineStyle className='sideBarIcon'/>
-						  Home
-					  </li>
+					  <Link to="/" className='link'>
+						<li className="sideBarListItem active">
+							<LineStyle className='sideBarIcon'/>
+							Home
+							</li>
+						  </Link>
 					  <li className="sideBarListItem">
 						  <Timeline className='sideBarIcon'/>
 						  Analytics
